@@ -1,0 +1,74 @@
+/* LOGIN PAGE */
+.login.row{    
+    background-repeat:repeat-x;
+    background-attachment:fixed;
+    background-position: left top;
+    position:absolute;
+    height:610px;
+    width: 100%;
+   
+    
+    
+}
+.login .card-body{
+    color: rgb(252, 252, 252);
+}
+
+.login .left-box{
+    background-color: aquamarine;
+}
+.login .right-box{
+    background-color: rgb(1, 6, 34);
+}
+
+.login .card{
+    padding: 188px;
+}
+
+.login a{
+    text-align: center;
+}
+
+
+/* dashboard */
+
+.dashboard .content{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+}
+
+/* register */
+
+.register.row{    
+    background-repeat:repeat-x;
+    background-attachment:fixed;
+    background-position: left top;
+    position:absolute;
+    height:610px;
+    width: 100%;
+   
+    
+    
+}
+.register .card-body{
+    color: rgb(252, 252, 252);
+}
+
+.register .left-box{
+    background-color: aquamarine;
+}
+.register .right-box{
+    background-color: rgb(1, 6, 34);
+}
+
+.register .card{
+    padding: 105px;
+}
+
+
+.register a{
+    text-align: center;
+}
